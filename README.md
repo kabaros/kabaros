@@ -9,5 +9,5 @@ Some of our __#tech4good__ projects:
 - BashirCountdown.com: An SMS gateway to circumvent internet blocking in Sudan during the 2018 revolution.
 - Some of our commercial projects: [BTheCrew](https://apps.apple.com/us/app/bthecrew/id1544389891) (react-native, firebase), [Carousel](https://apps.apple.com/us/app/carousel-sel-for-all/id1532592043) (react-native, react, node, aws), [SSC](https://ssc-sudan.org) (gatsby, aws, strapi, stripe, lambdas), and more.
 
-Get in touch info@nyala.dev. Next availability: **August 2021**.
+Get in touch info@nyala.dev. Next availability: **October 2021**.
 
