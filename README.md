@@ -1,6 +1,4 @@
-## Kabaros (Mozafar)
-
-Part of **[nyala.dev](https://nyala.dev)**; a tiny dev house started with my childhood friend [@abolkog](https://github.com/kabaros) based between Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Khartoum 🇸🇩 and Melbourne 🇦🇺. We build mobile and web apps commercially and invest the income in building **tech _for_ the marginalised _by_ the marginalised**.
+I am Mozafar (kabaros), part of **[nyala.dev](https://nyala.dev)**; a tiny dev house started with my childhood friend [@abolkog](https://github.com/kabaros) based between Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Khartoum 🇸🇩 and Melbourne 🇦🇺. We build mobile and web apps commercially and invest the income in building **tech _for_ the marginalised _by_ the marginalised**.
 
 Some of our projects:
 - [barmaga.io](https://barmaga.io) is a platform to learn programming in Amharic 🇪🇹, Arabic 🇸🇩 and Swahili. 💰 Support Barmaga on [chuffed.org](https://chuffed.org/project/barmagaio) to keep the project going 💰
@@ -11,3 +9,4 @@ Some of our projects:
 
 Get in touch info@nyala.dev.
 
+_also part of [dhis2](https://dhis2.org/) - the world's largest free open-source health information system_
