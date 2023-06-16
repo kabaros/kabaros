@@ -9,4 +9,6 @@ Some of our projects:
 
 Get in touch info@nyala.dev.
 
-_also part of [dhis2](https://dhis2.org/) - the world's largest free open-source health information system_
+--
+
+_also proud to be part of the team at [dhis2](https://dhis2.org/) - the world's largest free open-source health information system_
